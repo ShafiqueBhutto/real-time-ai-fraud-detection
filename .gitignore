@@ -37,6 +37,7 @@ data/raw/*
 data/processed/*
 data/*.csv
 data/*.parquet
+data/raw/*.zip
 
 # Logs
 logs/
